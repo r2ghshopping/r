@@ -1,0 +1,90 @@
+body{
+	margin: 0px;
+	padding:0;
+	background-color:black;
+	font-family: Helvetica , Aril;
+}
+
+.main-content{
+background-image: url("background-plane.jpg");
+background-size: 100%;
+width:1270px;
+height:650px;
+
+}
+
+#logo{
+	width:180px;
+height:30px;
+margin-top:30px;
+float: left;
+
+}
+.top-menu{
+	float:right;
+	margin-top:20px;
+
+}
+.top-menu img{margin-right:20px;}
+
+.main-text{
+
+	width:400px;
+	margin-bottom:700px;
+}
+.main-text h1{
+	color:#3CD6EF;
+	font-size: 2.5em;
+   margin-bottom:20px;
+}
+.main-text p{
+	color:#d1d1d1;
+	font-size: 13;
+}
+.main-text button{
+	color:#3DC6EF;
+	font-size:13;
+	background-color: black;
+	border: 2px solid #3DC6EF;
+}left-rect
+
+.main-text button:hover{
+background-color:#3DC6EF;
+}
+
+.middle-bar-content{
+padding:0;
+margin-top:60;
+position:absolute;
+width:120%;
+left:30%;
+}
+
+.middle-bar-content li{
+	width:80;
+	list-style:none;
+	float:left;
+	text-align:center;
+	margin-right:40;
+}
+.middle-bar-content img{
+	width:%;
+}
+
+.middle-bar-content span{
+	color:#ffffff;
+	font-size:0.65em;
+}
+
+.left-rect{
+	background-color:#007db
+	width:21%;
+	height:100%;
+	float:left;
+}
+
+.righgt-rect{
+	background-color:007db8;
+	width:69%;
+	height:100%;
+	float:right;
